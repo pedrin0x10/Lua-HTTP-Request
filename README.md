@@ -11,5 +11,5 @@ local response = pedrin:http("https://pastebin.com/raw/Tc3giJYP")
 print(response)
 ```
 
-## License
+## License:
 [MIT](https://choosealicense.com/licenses/mit/)
