@@ -8,7 +8,8 @@ Safer way to make GET request without using PerformHttpRequest from FiveM native
 ```lua
 local response = pedrin:http("https://pastebin.com/raw/Tc3giJYP")
 
-print(response)```
+print(response)
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
